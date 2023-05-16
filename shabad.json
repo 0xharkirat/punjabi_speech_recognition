@@ -1,0 +1,24 @@
+{
+  "total_results": 1,
+  "total_pages": 1,
+  "pages_data": {
+    "page_1": [
+      {
+        "shabad_id": 3997,
+        "verse": "ਸਤਿਗੁਰ ਆਗੈ ਸੀਸੁ ਭੇਟ ਦੇਉ ਜੇ ਸਤਿਗੁਰ ਸਾਚੇ ਭਾਵੈ ॥",
+        "steek": {
+          "en": "I place my head in offering before the True Guru, if it truly pleases the True Guru.",
+          "pu": "ਹੇ ਭਾਈ! ਜੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਰੂਪ ਗੁਰੂ ਨੂੰ ਚੰਗਾ ਲੱਗੇ, ਤਾਂ ਮੈਂ ਆਪਣਾ ਸਿਰ ਗੁਰੂ ਦੇ ਅੱਗੇ ਭੇਟ ਧਰ ਦਿਆਂ ।"
+        },
+        "source": {
+          "pu": "ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+          "en": "Sri Guru Granth Sahib Ji",
+          "ang": 1114,
+          "raagpu": "ਰਾਗੁ ਤੁਖਾਰੀ",
+          "raagen": "Raag Tukhaari",
+          "writer": "Guru Raam Daas Ji"
+        }
+      }
+    ]
+  }
+}
