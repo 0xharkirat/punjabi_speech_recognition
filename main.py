@@ -23,7 +23,7 @@ try:
     first_letters = firstletter.first_letters(convert)
     print(f'first letter: {first_letters}')
 
-    print(search.voice_search(text=first_letters))
+    search.voice_search(text=first_letters)
     
 except sr.UnknownValueError:
     print("Google Speech Recognition could not understand audio")
